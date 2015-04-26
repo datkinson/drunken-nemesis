@@ -1,0 +1,31 @@
+{
+  "name": "bastet-helper",
+  "version": "0.0.1",
+  "description": "Baster helper application",
+  "main": "www/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "install:android": "cordova platform add android",
+    "install:ios": "cordova platform add ios",
+    "install:wp8": "cordova platform add wp8",
+    "build:android": "cordova build android",
+    "build:ios": "cordova build ios",
+    "build:wp8": "cordova build wp8",
+    "run:android": "cordova run android",
+    "run:ios": "cordova run ios",
+    "run:wp8": "cordova run wp8"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/datkinson/drunken-nemesis.git"
+  },
+  "author": "Daniel Atkinson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/datkinson/drunken-nemesis/issues"
+  },
+  "homepage": "https://github.com/datkinson/drunken-nemesis",
+  "dependencies": {
+    "cordova": "^5.0.0"
+  }
+}
