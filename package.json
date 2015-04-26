@@ -8,13 +8,13 @@
     "postinstall": "bower update",
     "install:android": "cordova platform add android",
     "install:ios": "cordova platform add ios",
-    "install:wp8": "cordova platform add wp8",
+    "install:windows8": "cordova platform add windows8",
     "build:android": "cordova build android",
     "build:ios": "cordova build ios",
-    "build:wp8": "cordova build wp8",
+    "build:windows8": "cordova build windows8",
     "run:android": "cordova run android",
     "run:ios": "cordova run ios",
-    "run:wp8": "cordova run wp8"
+    "run:windows8": "cordova run windows8"
   },
   "repository": {
     "type": "git",

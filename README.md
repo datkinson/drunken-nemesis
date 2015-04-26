@@ -12,7 +12,7 @@ You will then need to install for the correct platform
 npm run install:<platform>
 ```
 
-Replace <platform> with either android, ios or wp8
+Replace <platform> with either android, ios or windows8
 
 ### Building
 
