@@ -1,5 +1,4 @@
 {
-<<<<<<< HEAD
   "name": "bastet-helper",
   "description": "A helper application for Bastet",
   "version": "0.0.1",
@@ -13,7 +12,7 @@
     "angular": "*",
     "angular-animate": "*",
     "angular-aria": "*",
-    "angular-material": "*"
+    "angular-material": "*",
     "winstore-jscompat": "https://github.com/MSOpenTech/winstore-jscompat.git"
   },
   "ignore": [
