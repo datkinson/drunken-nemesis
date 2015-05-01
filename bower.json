@@ -1,0 +1,20 @@
+{
+  "name": "drunken-nemesis",
+  "version": "0.0.1",
+  "homepage": "https://github.com/datkinson/drunken-nemesis",
+  "authors": [
+    "Daniel Atkinson"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "www/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "winstore-jscompat": "https://github.com/MSOpenTech/winstore-jscompat.git"
+  }
+}
