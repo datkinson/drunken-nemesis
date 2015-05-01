@@ -8,13 +8,13 @@
     "postinstall": "bower update",
     "install:android": "cordova platform add android",
     "install:ios": "cordova platform add ios",
-    "install:windows8": "cordova platform add windows8",
+    "install:windows": "cordova platform add windows",
     "build:android": "cordova build android",
     "build:ios": "cordova build ios",
-    "build:windows8": "cordova build windows8",
+    "build:windows": "cordova build windows",
     "run:android": "cordova run android",
     "run:ios": "cordova run ios",
-    "run:windows8": "cordova run windows8"
+    "run:windows": "cordova run windows"
   },
   "repository": {
     "type": "git",
@@ -27,7 +27,7 @@
   },
   "homepage": "https://github.com/datkinson/drunken-nemesis",
   "dependencies": {
-    "cordova": "^5.0.0",
+    "cordova": "*",
     "karma": "~0.10",
     "protractor": "^1.1.1",
     "http-server": "^0.6.1",
